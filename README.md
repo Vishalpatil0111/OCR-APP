@@ -21,7 +21,7 @@ A simple and intuitive web app built with Streamlit that extracts text from uplo
 - [pdf2image](https://github.com/Belval/pdf2image) – PDF to image conversion
 - Python standard libraries
 
----
+
 
 ## 🚀 Setup Instructions
 
@@ -47,11 +47,9 @@ A simple and intuitive web app built with Streamlit that extracts text from uplo
    streamlit run app.py
    ```
 
----
 
 ### 🌐 Deploy with Docker (Recommended for Tesseract Compatibility)
 
-Make sure your repo includes this `Dockerfile`:
 
 ```dockerfile
 # See README for full Dockerfile
