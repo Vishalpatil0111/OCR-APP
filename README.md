@@ -48,13 +48,6 @@ A simple and intuitive web app built with Streamlit that extracts text from uplo
    ```
 
 
-### 🌐 Deploy with Docker (Recommended for Tesseract Compatibility)
-
-
-```dockerfile
-# See README for full Dockerfile
-```
-
 Then deploy using [Render](https://render.com), Railway, or locally via:
 
 ```bash
