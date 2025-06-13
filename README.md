@@ -1,5 +1,4 @@
 
-## 📄 GitHub `README.md`
 
 ````markdown
 # 🧠 OCR Web App – Image & PDF to JSON
